@@ -6,6 +6,9 @@
 - Flow control
 - Arrays & Slices
 - Structs
+- Modules
+- Packages
+- Dependencies
 
 # References
 
