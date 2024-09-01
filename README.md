@@ -9,6 +9,8 @@
 - Modules
 - Packages
 - Dependencies
+- Errors
+- Panic and Recover
 
 # References
 

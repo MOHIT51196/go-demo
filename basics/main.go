@@ -17,4 +17,6 @@ func main() {
 	// from structs.go
 	Structs()
 	StructComposition()
+	CreateItem()
+	TypeChecking()
 }
